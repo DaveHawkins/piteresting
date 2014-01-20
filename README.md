@@ -3,7 +3,7 @@
 This is the pinteresting sample application for
 [*One Month Rails*] [http://onemonthrails.com]
 
-== README
+This is me just adding stuff to this line.  Let's see how it works.== README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
