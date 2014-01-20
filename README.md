@@ -3,12 +3,13 @@
 This is the pinteresting sample application for
 [*One Month Rails*] [http://onemonthrails.com]
 
-This is me just adding stuff to this line.  Let's see how it works.== README
+This is me just adding stuff to this line.  Let's see how it works. == README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
+
 
 * Ruby version
 
